@@ -1,4 +1,4 @@
- <h1 align = "center"><img src="https://github.com/sujikathir/sujikathir/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Hemananda Sai S Naidu Singampalli 👋</h1>
+ <h1 align = "center"><img src="https://github.com/SaiHemananda/saihemananda/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Hemananda Sai S Naidu Singampalli 👋</h1>
 
 I'm  passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. 
 
