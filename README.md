@@ -16,7 +16,7 @@ I have a strong practical and theoretical experience in the development of __Lar
 * *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
 * *Data Science Professional Certificate by [__Udemy__](https://www.udemy.com/certificate/UC-ce720fe0-a2bc-47e2-a378-d5f927be9b24/)*
-* *Python for Everybody Specialization by [__University of Michigan__](https://online.umich.edu/series/python-for-everybody/)*
+* *Microsoft Certified: Power BI Data Analyst Associate .[__Microsoft__](https://learn.microsoft.com/api/credentials/share/en-us/HemanandaSaiSimhachalamNaiduSingam-2732/72628E7A57820BCE?sharingId=B072719857919D64)
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
@@ -34,15 +34,6 @@ I have a strong practical and theoretical experience in the development of __Lar
 * *XGBoost*
 * *Long Short-Term Memory (LSTM)*
 
-🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
-
-* *Auto-Regressive (AR) Model*
-* *Auto-Regressive Moving Averages (ARMA) Model*
-* *Auto-Regressive Integrated Moving Averages (ARIMA) Model*
-* *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
-* *Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model*
-* *The Prophet Forecasting Model by Facebook*
-
 🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
 
 * *Langchain*
@@ -52,9 +43,7 @@ I have a strong practical and theoretical experience in the development of __Lar
 * *OpenAI API*
 * *Mixtral (LLM)*
 * *Llama 2 (LLM)*
-* *GPT - 3 (LLM)*
-* *GPT - 3.5 (LLM)*
-* *GPT - 4 (LLM)*
+
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
