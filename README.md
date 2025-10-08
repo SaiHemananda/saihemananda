@@ -13,7 +13,7 @@ I have a strong practical and theoretical experience in the development of __Lar
 
 
 🔭 Some of the notable courses I have completed and that helped in gaining strong theoretical foundation include: 
-* *Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/)*
+* *Machine Learning Certification by [__Couresera__](https://www.coursera.com/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
 * *Data Science Professional Certificate by [__Udemy__](https://www.udemy.com/certificate/UC-ce720fe0-a2bc-47e2-a378-d5f927be9b24/)*
 * *Microsoft Certified: Power BI Data Analyst Associate .[__Microsoft__](https://learn.microsoft.com/api/credentials/share/en-us/HemanandaSaiSimhachalamNaiduSingam-2732/72628E7A57820BCE?sharingId=B072719857919D64)
