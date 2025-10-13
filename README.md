@@ -7,7 +7,7 @@ I love exploring how AI can solve real-world problems and create new possibiliti
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 🔭 I hold a Masters Degree in Data Science and Analytics with a specialisation in Artificial Intelliegnce from Florida Atlantic Uninversity and
 
-I have 3+ years of experience building and deploying machine learning and deep learning models.
+I have 4+ years of experience building and deploying machine learning and deep learning models.
 
 I have a strong practical and theoretical experience in the development of __Large Language Models (LLMs)__ and __Generative AI__. 
 
@@ -16,7 +16,8 @@ I have a strong practical and theoretical experience in the development of __Lar
 * *Machine Learning Certification by [__Couresera__](https://www.coursera.com/)*
 * *Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/)*
 * *Data Science Professional Certificate by [__Udemy__](https://www.udemy.com/certificate/UC-ce720fe0-a2bc-47e2-a378-d5f927be9b24/)*
-* *Microsoft Certified: Power BI Data Analyst Associate .[__Microsoft__](https://learn.microsoft.com/api/credentials/share/en-us/HemanandaSaiSimhachalamNaiduSingam-2732/72628E7A57820BCE?sharingId=B072719857919D64)
+* *Microsoft Certified: Azure Fundamentals .[__Microsoft Certified__](https://learn.microsoft.com/api/credentials/share/en-us/HemanandaSaiSimhachalamNaiduSingam-2732/4EA71706BA6A8849?sharingId=B072719857919D64)*
+* *Microsoft Certified: Power BI Data Analyst Associate .[__Microsoft Certified__](https://learn.microsoft.com/api/credentials/share/en-us/HemanandaSaiSimhachalamNaiduSingam-2732/72628E7A57820BCE?sharingId=B072719857919D64)
 
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
